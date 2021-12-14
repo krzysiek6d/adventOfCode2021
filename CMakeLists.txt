@@ -24,3 +24,5 @@ add_subdirectory(advent_05_p2)
 
 add_subdirectory(advent_09)
 add_subdirectory(advent_09_p2)
+add_subdirectory(advent_10)
+add_subdirectory(advent_10_p2)
